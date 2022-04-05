@@ -1,7 +1,7 @@
 # Hi there :wave:
 
 - :computer: I'm currently working on Grocy app
-- :mortar_board: I’m currently learning Flutter & Dart
+- :mortar_board: I’m currently using Flutter & Dart
 - :briefcase: I’m looking to collaborate on some Flutter project
 - :speech_balloon: Ask me about anything
 - :mailbox: How to reach me:
